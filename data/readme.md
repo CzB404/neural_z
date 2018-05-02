@@ -6,7 +6,7 @@ The the corrected raw data is `raw_data/grb_table_1524584294_corr.txt`.
 
 The final output data has been compiled into a number of formats for easy reuse:
 
-* Tab delimited texts (`grbz_data` directory)
+* Tab delimited texts (`grbz_data.tar.gz`)
 * Excel spreadsheet for easy viewing (`grbz_data.xlsx`)
 * Python pickle (`grbz.pkl`)
 * SQLite3 database file (compressed, `grbz_data.db.gz`)
